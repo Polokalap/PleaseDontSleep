@@ -1,0 +1,5 @@
+name: PleaseDontSleep
+version: '1.0'
+main: me.Polokalap.owo.Owo
+api-version: '1.20'
+description: "Simple plugin that prevents the player from sleeping."
